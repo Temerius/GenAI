@@ -1,0 +1,2 @@
+# GenAI
+tarot cards
